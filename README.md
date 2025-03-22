@@ -1,2 +1,2 @@
-# Tensor_UI_Autotests
-Test Task. Automated UI-tests for SBIS (Selenium + Pytest)
+# UI Autotests
+Tensor Test Task. Automated UI-tests (Selenium + Pytest)
